@@ -1,0 +1,60 @@
+#navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+   
+}
+#navbar {
+    display:block;
+    float: left;
+    position: relative;
+    border-right: 1px solid black;
+    width: 20%;
+}
+#main-doc {
+    
+    float:right;
+}
+img {
+    width: 100%;
+}
+nav#navbar ul {
+    font-size: 20px;
+    
+}
+nav#navbar li {
+    border-top: 1px solid black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+main#main-doc {
+
+    position: relative;
+    width: 70%;
+    float: right;
+    padding: 5px 30px 30px 30px;
+}
+header#header {
+    font-size: 20px;
+}
+section#introduction {
+    margin-bottom: 40px;
+}
+main#main-doc code {
+    text-align: left;
+}
+#main-doc article {
+    padding-left: 15px;
+}
+#main-doc article p{
+    margin: 20px 0;
+}
+#main-doc ul{
+    padding-left: 80px;
+    margin: 20px 0;
+}
+#main-doc header{
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
